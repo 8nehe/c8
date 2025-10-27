@@ -2,7 +2,7 @@
 - All work done at ALX in Cohort 8
 
 ## Topics Covered
-- Python
+- Python3
 - Git
 - Linux
 - SQL and Database
