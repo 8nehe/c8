@@ -7,3 +7,4 @@
 - Linux
 - SQL and Database
 - Django
+- AWS
